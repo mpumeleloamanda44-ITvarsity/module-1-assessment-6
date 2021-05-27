@@ -1,0 +1,45 @@
+.gallery img{
+        width: 100%;
+}
+#menu{
+      width:100%;
+      height:40px;
+      background-color: darkcyan;
+      padding-top: 12px;
+}
+
+#menu a{
+      color:#ffffff;
+      font-family: Helvetica, sans-serif;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      
+      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu a:hover{
+       color: black;
+}
+h1{
+   font-style: italic;
+   font-size: 30px;
+   text-decoration-color: darkcyan;
+}
+
+p{
+    font-size: 30px;
+    font-style: italic;
+    text-decoration-color: darkcyan;
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 3px;
+    border-style: solid;
+    font-style: italic;
+}
+    
+}
